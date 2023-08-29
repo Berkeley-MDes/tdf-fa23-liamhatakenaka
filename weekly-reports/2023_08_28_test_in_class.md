@@ -13,7 +13,7 @@ _italic text_
 
 ![alaska photos](Flight.gif)
 
-### list:
+### _list:_
 1. one
 2. two
 3. three
