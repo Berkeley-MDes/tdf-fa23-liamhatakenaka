@@ -14,3 +14,5 @@ regular text
 - one
 - two
 - three
+
+[Here] (https://github.com/Berkeley-MDes/desinv-202/wiki/1.1-Schedule) is a link to Monday's schedule
