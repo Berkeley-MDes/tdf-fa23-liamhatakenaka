@@ -1,6 +1,6 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
-### Report 1 - Week of 8/29/2023
+### Report 1 - Week of 8/31/2023
 
 ### _Reflections_
 
