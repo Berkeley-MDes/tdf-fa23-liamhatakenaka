@@ -25,7 +25,9 @@ Now it was time to laser cut. While I had used a laser cutter plenty of times du
 Despite the aforementioned looseness of the pieces, I am overall satisfied with how my phone stand came together in terms of how it is shaped around my phone wallet and camera. Had I done this over, I would have changed a few things. For one, I would have make the insert holes smaller as i mentioned before (or just used a thicker piece of wood). Secondly, I would have first worked in Grasshopper (which I now am more familiar with thanks to TJ's demonstration) and changed the angle at which the phone lays in the stand. In its current state, I think my stand puts the phone at too vertical of an angle for it to be very usable at close distances. 
 
 ![finished stand 1](phone_stand_photo7.HEIC)
+
 ![finished stand 2](phone_stand_photo8.HEIC)
+
 ![finished stand 3](phone_stand_photo9.HEIC)
 
 _My three main takeaways from this project are_:
