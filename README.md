@@ -14,6 +14,8 @@ Since I did not make many edits to the overall dimensions of the cutout in the p
 
 From there, I went into Rhino and began working on the individual pieces, constantly using the "distance", "insert control points", and "angle" commands to make sure I got it just right. 
 
+![rhino file](rhinofile.jpg)
+
 Finally, I was ready to export the file to illustrator and get it ready for laser cutting. Some troubleshooting was necessary here, as on my first few attempts all that was exported was a single line from the Rhino file. The solution was to select and export each of the four individual pieces into separate Illustrator files, then combine them into a single one. All that was left was to delete one of the original lines that served as the back support of the phone stand, which I found much easier to do in Illustrator than in Rhino: simply adding in control points at the corners then deleting the segment between them.
 
 ![pre-deleted line](illustrator_photo1.png) ![post-deleted line](phone_stand2.png)
