@@ -37,9 +37,9 @@ Now that my file was ready for printing, I had to figure out how to print it. Li
 
 After watching the first three layers be printed, I left the Maker Space anxious to see the final product eight hours later. Fast forward to the next day, and my print was done! Thankfully, it went very smoothly and my phone fits perfectly within it. Now I can forgo my makeshift water bottle stands when I am on FaceTime with friends or family :D
 
-![Stand Photo 1](3d_stand4 Small.png)
-![Stand Photo 2](3d_stand5.HEIC)
-![Stand Photo 3](3d_stand6.HEIC)
+![Stand Photo 1](3d_stand4.png)
+![Stand Photo 2](3d_stand5.png)
+![Stand Photo 3](3d_stand6.png)
 
 _My three main takeaways from this week are:_
 1. Ask questions!
