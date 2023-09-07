@@ -1,5 +1,12 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
+
+### Report 2 - Week of 9/7/2023
+
+### _Reflections_
+
+This week I was really able to formally familiarize myself with Grasshopper. As I wrote about last week I had slightly misunderstood the assignment, doing the bulk of my work within Rhino itself and hardly using Grasshopper at all. While I was somewhat satisfied with the outcome of my phone stand, I wanted to better familiarize myself with Grasshopper. Of the four homework options, I chose to go with
+
 ### Report 1 - Week of 8/31/2023
 
 ### _Reflections_
