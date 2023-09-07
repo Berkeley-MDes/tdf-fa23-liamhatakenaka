@@ -19,11 +19,11 @@ With this goal in mind, I started to consider how I wanted to modify the phone s
 
 With these in mind, I opened up Grasshopper and got to work. I was helped tremendously by [this](https://www.youtube.com/@paracourse/featured)  youtube channel that Ming suggested in the class slack channel. Once I had watched a few videos and done my fair share of playing around in Grasshopper, I felt comfortable enough with the UI to start making my modifications. Thanks to this weekly journal submission, the dimensions to my phone were easily accessible, making the modifications of them a very smooth process. From there, changing the viewing angle and the phone's orientation was even easier, as TJ had kindly made those functions easily accessible and understandable. 
 
-(insert phone dimension photo here)
+![Phone Dimensions](rhino_measurements.png)
 
 All was going smoothly until it was time to bake and save the changes in Rhino. I mistakenly baked each individual change, rather than finding the '3D stand' brep. On top of that, the entire time I had been working in the 'CellPhoneStandModel00.gh' file, rather than the 'CellPhoneStand_forGrasshopper_all.3dm' file. These two mistakes meant that when I opened the Rhino file back up, I physically could not select the phone stand to be exported to STL. Rather, I could only click on the phone itself and its accompanying 'visual field' geometry. When exported to STL, this is what I was left with:
 
-(insert phone stl file)
+![Mistake STL](mistake_stl.png)
 
 Not quite a phone stand...
 
@@ -37,7 +37,9 @@ Now that my file was ready for printing, I had to figure out how to print it. Li
 
 After watching the first three layers be printed, I left the Maker Space anxious to see the final product eight hours later. Fast forward to the next day, and my print was done! Thankfully, it went very smoothly and my phone fits perfectly within it. Now I can forgo my makeshift water bottle stands when I am on FaceTime with friends or family :D
 
-(insert 3 phone stand photos)
+![Stand Photo 1](3d_stand4.HEIC)
+![Stand Photo 2](3d_stand5.HEIC)
+![Stand Photo 3](3d_stand6.HEIC)
 
 _My three main takeaways from this week are:_
 1. Ask questions!
