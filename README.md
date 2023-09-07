@@ -17,8 +17,6 @@ With this goal in mind, I started to consider how I wanted to modify the phone s
 - The orientation of the phone from horizontal to vertical
 - The angle at which the phone sits in the stand as I would instead be using it sitting down
 
-
-
 ### Report 1 - Week of 8/31/2023
 
 ### _Reflections_
