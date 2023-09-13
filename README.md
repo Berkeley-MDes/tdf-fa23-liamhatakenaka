@@ -15,9 +15,27 @@ I landed on a design that would embed the charger flat into the back wall of the
 
 From here, I had to make my measurements. I again revisited my week one report, in which I laid out all of my phone measurements. For the charger, I was able to find [this](https://www.youtube.com/watch?v=1gxqxZlwCHI) YouTube video, which helped greatly because the creator used a much more precise measuring tool than I had access to. With my measurements in hand, I was not ready to open up Grasshopper and begin creating the phone stand. I was satisfied with the general geometry of the "CellPhoneStand_simple" file from last week, as it supported the phone well and felt sturdy as a whole. Because of this, I used this file as a template for what would become my personalized phone stand. 
 
-Before I changed any of the geometry of the stand, I made what I saw to be the easiest changes first. Those changes were the ones that were already made easily available, like the phone width, the phone angle, and the orientation of the phone. After this, I reduced the radius of the inner sphere all the way to zero, which created a solid, flat back wall upon which I would add my charger geometry. Following this, I led myself down a long, inefficient path in order to achieve the recessed shape I desire. I would only find out just how inefficient my process was much later during office hours with Cody. Before that though, initial process should be reflected on.
+Before I changed any of the geometry of the stand, I made what I saw to be the easiest changes first. Those changes were the ones that were already made easily available, like the phone width, the phone angle, and the orientation of the phone. After this, I reduced the radius of the inner sphere all the way to zero, which created a solid, flat back wall upon which I would add my charger geometry. Following this, I led myself down a long, inefficient path in order to achieve the recessed shape I desire. I would only find out just how inefficient my process was much later during office hours with Cody. Before that though, my initial process should be reflected on.
 
+Much of my process was informed by TJ's YouTube video walking through the Grasshopper file, particularly the section in which he creates new geometry and utilizes the "sDiff" function. Unlike the video however, my challenge was not only creating new geometry to thereby use the "sDiff" function, but I had to move it around in space in order to align it with the back wall of the stand. 
 
+(insert photo of cylinder to be moved)
+
+This was something I had never really done and not only posed as the biggest challenge of this project, but also where my process could have been greatly improved. In short, the way in which I went about moving the cylinder was through several sets of "move" functions. While this (in essence) did what I wanted it to, there were a few big issues with it: first, it was wildly inefficient. 
+
+(insert photo of move commands)
+
+To move the cylinder, I had to move it across the X, Y, and Z axes along with using the "3DRot" function to align it with the back wall. Secondly, it was imprecise. Rather than being able to algin the charger geometry with the exact angle of the back wall, I instead adjusted the angle of the shape by roughly half a degree until it looked to the naked eye to be aligned. While this may have "worked", this obviously is not best practice and was a good lesson learned. 
+
+Once I had my cylinder in the position I wanted, I ran into the other big obstacle: using the "sDiff" function. When trying to use it, the cylinder simply would not be "cut into" the back wall of the phone stand. After hours of scouring the internet, consulting TJ's videos, and trying everything I could in Grasshopper, I finally realized my mistake: the "sDiff" function simply would not work unless the geometry to be "cut out" extended to both sides of the phone case.
+
+(show two photos: cylinder without hole thru back and cylinder with hole thru back)
+
+While I was finally able to cut out the charger hole a new problem arose, the recess was way too deep for the phone to be able to charge and rest within the stand. To solve this, I had to add another cylinder which would act as a back rest, allowing the front of the charger to align with the back wall. To do this I again used far too many "move" commands and eyeballed the rotation in order to get it into place. 
+
+(add photo of cylinder support)
+
+After this, the last thing I needed to do was add a rectangle which would act as the hole for the charger's accompanying cable. This was the part of the design that I mocked the most iterations of in my sketches, having eventually settled on having it simply go off to the side. 
 
 ### Report 2 - Week of 9/7/2023
 
