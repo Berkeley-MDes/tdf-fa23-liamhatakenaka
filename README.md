@@ -37,6 +37,23 @@ While I was finally able to cut out the charger hole a new problem arose, the re
 
 After this, the last thing I needed to do was add a rectangle which would act as the hole for the charger's accompanying cable. This was the part of the design that I mocked the most iterations of in my sketches, having eventually settled on having it simply go off to the side. 
 
+(add photo of cable part)
+
+Finally, I was done and ready to print. Only once I brought my file to the Maker Space to be printed and had Cody look at my work did I learn how inefficiently I had made my phone stand. Cody walked me through the steps of how he would have done it, and it was much, much more intuitive. Rather than spamming the "move" function, he was able to move the charger recess onto the back wall of the stand in a few simple steps:
+(insert photo of codys work)
+1. Used "DeBrep" to deconstruct the phone stand and find the back wall
+2. Used "list" and a number slider to find the exact number that represented the back wall
+3. Used "DePlane" and "Area" to be used with the "Orient" function which would orient the cylinder directly onto the back wall of the stand
+From here, he simply used the "sDiff" function to create the recess, then repeating the same steps for the accompanying cable hole.
+
+This ended up not only being a much more intuitive and efficient way of creating my phone stand, but it also eliminated the need for the inner cylinder support that my previous iteration had. This prevented my file from needing as many supports when 3D printing, which is especially helpful considering how small the hole was that I would have to get the supports out of. 
+
+(Original stand with supports) (new stand with few supports)
+
+Now, all I had to do was print
+
+(photo of it printing)
+
 ### Report 2 - Week of 9/7/2023
 
 ### _Reflections_
