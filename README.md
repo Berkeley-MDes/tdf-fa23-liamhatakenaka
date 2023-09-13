@@ -54,6 +54,16 @@ Now, all I had to do was print
 
 (photo of it printing)
 
+_My three main takeaways this week are:_ 
+1. Hofstadter's Law is undefeated
+2. Cody is a wizard in Grasshopper
+3. Playing around is key to learning
+
+### _Speculations_
+
+
+
+
 ### Report 2 - Week of 9/7/2023
 
 ### _Reflections_
