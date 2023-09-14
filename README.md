@@ -23,24 +23,27 @@ Much of my process was informed by TJ's YouTube video walking through the Grassh
 
 This was something I had never really done and not only posed as the biggest challenge of this project, but also where my process could have been greatly improved. In short, the way in which I went about moving the cylinder was through several sets of "move" functions. While this (in essence) did what I wanted it to, there were a few big issues with it: first, it was wildly inefficient. 
 
-(insert photo of move commands)
+![Move commands](many_moves.png)
 
 To move the cylinder, I had to move it across the X, Y, and Z axes along with using the "3DRot" function to align it with the back wall. Secondly, it was imprecise. Rather than being able to algin the charger geometry with the exact angle of the back wall, I instead adjusted the angle of the shape by roughly half a degree until it looked to the naked eye to be aligned. While this may have "worked", this obviously is not best practice and was a good lesson learned. 
 
 Once I had my cylinder in the position I wanted, I ran into the other big obstacle: using the "sDiff" function. When trying to use it, the cylinder simply would not be "cut into" the back wall of the phone stand. After hours of scouring the internet, consulting TJ's videos, and trying everything I could in Grasshopper, I finally realized my mistake: the "sDiff" function simply would not work unless the geometry to be "cut out" extended to both sides of the phone case.
 
-(show two photos: cylinder without hole thru back and cylinder with hole thru back)
+![stand without hole](no_diff.png)
+![stand with hole](diff.png)
 
 While I was finally able to cut out the charger hole a new problem arose, the recess was way too deep for the phone to be able to charge and rest within the stand. To solve this, I had to add another cylinder which would act as a back rest, allowing the front of the charger to align with the back wall. To do this I again used far too many "move" commands and eyeballed the rotation in order to get it into place. 
 
-(add photo of cylinder support)
+![cylinder support](support.png)
 
 After this, the last thing I needed to do was add a rectangle which would act as the hole for the charger's accompanying cable. This was the part of the design that I mocked the most iterations of in my sketches, having eventually settled on having it simply go off to the side. 
 
-(add photo of cable part)
+![cable hole](cable_hole.png)
 
 Finally, I was done and ready to print. Only once I brought my file to the Maker Space to be printed and had Cody look at my work did I learn how inefficiently I had made my phone stand. Cody walked me through the steps of how he would have done it, and it was much, much more intuitive. Rather than spamming the "move" function, he was able to move the charger recess onto the back wall of the stand in a few simple steps:
-(insert photo of codys work)
+
+![cody's work](cody_work_3.png)
+
 1. Used "DeBrep" to deconstruct the phone stand and find the back wall
 2. Used "list" and a number slider to find the exact number that represented the back wall
 3. Used "DePlane" and "Area" to be used with the "Orient" function which would orient the cylinder directly onto the back wall of the stand
@@ -48,7 +51,8 @@ From here, he simply used the "sDiff" function to create the recess, then repeat
 
 This ended up not only being a much more intuitive and efficient way of creating my phone stand, but it also eliminated the need for the inner cylinder support that my previous iteration had. This prevented my file from needing as many supports when 3D printing, which is especially helpful considering how small the hole was that I would have to get the supports out of. 
 
-(Original stand with supports) (new stand with few supports)
+![original sliced stand](original_stand_sliced.png)
+![final sliced stand](final_stand_sliced.png)
 
 Now, all I had to do was print
 
