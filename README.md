@@ -56,7 +56,7 @@ This ended up not only being a much more intuitive and efficient way of creating
 
 Now, all I had to do was print
 
-(photo of it printing)
+![printing stand](printing.HEIC)
 
 _My three main takeaways this week are:_ 
 1. Hofstadter's Law is undefeated
