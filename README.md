@@ -9,7 +9,7 @@ This week I learned two main lessons: One, the best way to learn Grasshopper bet
 
 I started my process by making some rough sketches of what I envisioned this phone stand to look like. I had to consider several constraints, such as the angle at which I would want my phone placed, where the "charger hole" needed to be placed, and how I would account for the cable that connects to the charger itself.
 
-(insert sketches here)
+![My sketches](sketches.HEIC)
 
 I landed on a design that would embed the charger flat into the back wall of the phone stand while the phone lays in landscape mode - which would be great for needing to charge my phone while doing something like watching YouTube.
 
