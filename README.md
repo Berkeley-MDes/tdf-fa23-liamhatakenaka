@@ -65,7 +65,7 @@ _My three main takeaways this week are:_
 
 ### _Speculations_
 
-
+As I mentioned several times throughout this submission, I was helped out greatly by Cody and his knowledge of Grasshopper. The value of learning from someone with experience in something you are just starting cannot be overstated, however I wonder how this dynamic will hold up in the age of AI, especially as it pertains to programs like Grasshopper. While I did not utilize ChatGPT much, I am sure it would have helped at least a little bit. Would it have worked had I asked, "How can I make a more intuitive and efficient set of parameters to produce a phone stand that is compatible with an Apple MagSafe charger"? Likely not. But I can certainly see a world 5, 10, 15 years down the line in which LLMs are able to generate detailed instructions on how to do things like this. As it pertains to programs like Grasshopper, it will obviously make it much more accessible. However, people who hypothetically rely on AI to generate their parameters will miss out on crucial learning moments like I had all throughout the past week. In the way of "bespoke consumer goods" which I have written about the past two weeks, it could cause a boom in the market for them, as consumers could simply buy a template then ask ChatGPT how they can modify the parameters to their own liking.
 
 
 ### Report 2 - Week of 9/7/2023
