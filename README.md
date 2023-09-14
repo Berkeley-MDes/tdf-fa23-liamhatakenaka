@@ -58,6 +58,11 @@ Now, all I had to do was print
 
 ![printing stand](printing.HEIC)
 
+UPDATE: the printer got jammed with with about an hour to go :( New print will be made and ready by Monday
+
+![failed print](failed_print.png)
+
+
 _My three main takeaways this week are:_ 
 1. Hofstadter's Law is undefeated
 2. Cody is a wizard in Grasshopper
