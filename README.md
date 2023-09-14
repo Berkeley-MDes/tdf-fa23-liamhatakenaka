@@ -62,7 +62,7 @@ UPDATE: the printer got jammed with with about an hour to go :( New print will b
 
 ![failed print](failed_print.png)
 
-![LINK](https://youtu.be/0Dekjtj3TPI) TO YOUTUBE VIDEO
+LINK TO YOUTUBE VIDEO: https://youtu.be/0Dekjtj3TPI
 
 
 _My three main takeaways this week are:_ 
