@@ -62,6 +62,8 @@ UPDATE: the printer got jammed with with about an hour to go :( New print will b
 
 ![failed print](failed_print.png)
 
+![LINK](https://youtu.be/0Dekjtj3TPI) TO YOUTUBE VIDEO
+
 
 _My three main takeaways this week are:_ 
 1. Hofstadter's Law is undefeated
