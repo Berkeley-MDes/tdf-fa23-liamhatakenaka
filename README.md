@@ -35,6 +35,8 @@ After that, I navigated to the Berkeley IoT website and registered my device
 
 Now all I need to do is connect my device to Berkeley IoT wi-fi when I get to campus, easy stuff!
 
+![final photon set up](final_setup.png)
+
 ### _Speculations_
 
 I am excited to do more research into what exactly the capabilites of this Photon 2 are. While I have worked with an Arduino once before, I still have very limited experience with hardware and electronics in general, so I am looking forward to getting more comfortable with them - hopefully to the point of being able to get creative with its applications. I have yet to do steps 7-10, but I was able to look ahead at some of the readings included like How to Use and Breadboard. Along with that, I read a great introductory article: _Particle's Photon 2: A Powerful Gateway to the IoT and Machine Learning World_, which outlines the Photon's machine learning applications. 
