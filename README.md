@@ -1,6 +1,10 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 4 - Week of 9/21/2023
+
+After a hectic week of computational design and spending way too much time staring at the Prusa, this week was a nice change of pace. This week was a great opportunity to slow down and play around, diving into project 2 and figuring out what the heck a Photon 2 is. But first, I was able to pick up my final phone stand on Monday and to my great relief, it had printed smoothly and was fully functional! Very nice start to the week.
+
 ### Report 3 - Week of 9/14/2023
 
 ### _Reflections_
