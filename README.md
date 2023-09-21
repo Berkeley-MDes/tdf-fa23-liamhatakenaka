@@ -7,6 +7,42 @@
 
 After a hectic week of computational design and spending way too much time staring at the Prusa, this week was a nice change of pace. This week was a great opportunity to slow down and play around, diving into project 2 and figuring out what the heck a Photon 2 is. But first, I was able to pick up my final phone stand on Monday and to my great relief, it had printed smoothly and was fully functional! Very nice start to the week.
 
+(insert photo of completed phone stand)
+
+Now to the Photon. Sudhu kindly set up a very easy-to-follow tutorial on how to get the Photon up and running. But before I did that, I gave myself time to open up all the materials and look through them, sorting them into two groups: one being things I recognize and the other being things I don't. The daunting nature of this project and its included materials only increased when I was left with a pile about three times the size of the other: materials I don't recognize being the latter. 
+
+(insert photo of things I don't recognize vs. things I do) 
+
+As I learned in the previous project however, this just means I have more to learn!
+
+After organizing all of my materials, I jumped into the setting up tutorial. First, it was creating an account - something I'm familiar with! :D
+
+After that, it was setting up the Photon2. Thankfully, Particle makes this a very easy process, as all that is needed is to plug in the device to your computer and they take the rest from there. 
+
+(photo of photon connected to computer)
+
+Next was finding my device's MAC address. First, I went into GetMacAddress.ino and was met with the code necessary to copy the app
+
+(photo of code)
+
+Then, I opened up the Particle USB serial debug log and found my MAC address!
+
+(photo of mac address)
+
+After that, I navigated to the Berkeley IoT website and registered my device
+
+(photo of berkeley iot website)
+
+Now all I need to do is connect my device to Berkeley IoT wi-fi when I get to campus, easy stuff!
+
+### _Speculations_
+
+I am excited to do more research into what exactly the capabilites of this Photon 2 are. While I have worked with an Arduino once before, I still have very limited experience with hardware and electronics in general, so I am looking forward to getting more comfortable with them - hopefully to the point of being able to get creative with its applications. I have yet to do steps 7-10, but I was able to look ahead at some of the readings included like How to Use and Breadboard. Along with that, I read a great introductory article: _Particle's Photon 2: A Powerful Gateway to the IoT and Machine Learning World_, which outlines the Photon's machine learning applications. 
+
+(photo of article)
+
+Based on what I read in the article, I am really excited to potentially explore the Photon's at-home IoT applications. Being that I'm interested in how design and technology intersect with personal health, fitness, and sport, I will be doing my exploration and research on how an IoT device can be applied to those domains.
+
 ### Report 3 - Week of 9/14/2023
 
 ### _Reflections_
