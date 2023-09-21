@@ -23,15 +23,15 @@ After that, it was setting up the Photon2. Thankfully, Particle makes this a ver
 
 Next was finding my device's MAC address. First, I went into GetMacAddress.ino and was met with the code necessary to copy the app
 
-(photo of code)
+![set up code](setup_code.png)
 
 Then, I opened up the Particle USB serial debug log and found my MAC address!
 
-(photo of mac address)
+![my mac address](mac_address.png)
 
 After that, I navigated to the Berkeley IoT website and registered my device
 
-(photo of berkeley iot website)
+![berkeley site mac address](berkeley_mac_address.png)
 
 Now all I need to do is connect my device to Berkeley IoT wi-fi when I get to campus, easy stuff!
 
@@ -39,7 +39,7 @@ Now all I need to do is connect my device to Berkeley IoT wi-fi when I get to ca
 
 I am excited to do more research into what exactly the capabilites of this Photon 2 are. While I have worked with an Arduino once before, I still have very limited experience with hardware and electronics in general, so I am looking forward to getting more comfortable with them - hopefully to the point of being able to get creative with its applications. I have yet to do steps 7-10, but I was able to look ahead at some of the readings included like How to Use and Breadboard. Along with that, I read a great introductory article: _Particle's Photon 2: A Powerful Gateway to the IoT and Machine Learning World_, which outlines the Photon's machine learning applications. 
 
-(photo of article)
+![photon artice](photon_article.png)
 
 Based on what I read in the article, I am really excited to potentially explore the Photon's at-home IoT applications. Being that I'm interested in how design and technology intersect with personal health, fitness, and sport, I will be doing my exploration and research on how an IoT device can be applied to those domains.
 
