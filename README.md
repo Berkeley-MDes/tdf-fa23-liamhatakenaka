@@ -7,7 +7,7 @@
 
 After a hectic week of computational design and spending way too much time staring at the Prusa, this week was a nice change of pace. This week was a great opportunity to slow down and play around, diving into project 2 and figuring out what the heck a Photon 2 is. But first, I was able to pick up my final phone stand on Monday and to my great relief, it had printed smoothly and was fully functional! Very nice start to the week.
 
-(insert photo of completed phone stand)
+![final stand](final_stand_week4.png)
 
 Now to the Photon. Sudhu kindly set up a very easy-to-follow tutorial on how to get the Photon up and running. But before I did that, I gave myself time to open up all the materials and look through them, sorting them into two groups: one being things I recognize and the other being things I don't. The daunting nature of this project and its included materials only increased when I was left with a pile about three times the size of the other: materials I don't recognize being the latter. 
 
