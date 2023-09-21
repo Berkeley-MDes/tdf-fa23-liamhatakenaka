@@ -11,7 +11,7 @@ After a hectic week of computational design and spending way too much time stari
 
 Now to the Photon. Sudhu kindly set up a very easy-to-follow tutorial on how to get the Photon up and running. But before I did that, I gave myself time to open up all the materials and look through them, sorting them into two groups: one being things I recognize and the other being things I don't. The daunting nature of this project and its included materials only increased when I was left with a pile about three times the size of the other: materials I don't recognize being the latter. 
 
-(insert photo of things I don't recognize vs. things I do) 
+![recognize](recognize.png)
 
 As I learned in the previous project however, this just means I have more to learn!
 
@@ -19,7 +19,7 @@ After organizing all of my materials, I jumped into the setting up tutorial. Fir
 
 After that, it was setting up the Photon2. Thankfully, Particle makes this a very easy process, as all that is needed is to plug in the device to your computer and they take the rest from there. 
 
-(photo of photon connected to computer)
+![connected](connected.png)
 
 Next was finding my device's MAC address. First, I went into GetMacAddress.ino and was met with the code necessary to copy the app
 
