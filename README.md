@@ -1,6 +1,44 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 5 - Week of 9/28/2023
+
+### _Reflections_
+
+This week we have been slowly building up to project 2 and the directions in which we want to take it. I have been enjoying the pace at which we are familiarizing ourselves with the Photon before getting busy with its practical applications. Coming from a background where I rarely worked with hardware, I have appreciated the time to learn the very basics of what the Photon 2 is, how it works, and how we may apply it to our upcoming project.
+
+Last Thursday, Sudhu walked us through steps 7-11 of the Photon 2 set up tutorial. This was a great experience and really helped me understand how to use the Photon and a breadboard better. 
+
+First was hello World, which was the first bit of online code we used to test if our Photon was on and working. It worked! And i was met with an endless string of "hello World"'s in my debug log.
+
+Next was blink, in which we commanded the Photon to blink the light located in the "D7" position. This was also relatively easy, given the code was readily avaiable.
+
+(photo of D7 light)
+
+After Blink, we connected our Photons to the bread board in order to try and blink an external LED. This took a bit more time for me than the previous tasks, as I had to understand where to connect each wire with respect to the positive and negative sides of each. Finally, I got it and ran the code and it lit up!
+
+(photo of LED lit up)
+
+Then, we were challenged to make the LED and the D7 light alternate. This was also relatively easy with the given code, but it was still very satisfying to see the lights alternating. I went into the code and played around with the timing of the lights, making them alternate faster and slower to see how it would react.
+
+(photos of them alternating)
+
+Lastly, we utilized an LDR (light dependent resistor) to create a sensor which would dictate the light's turning on and off. This was the coolest part of the day for me, as the Photon's abilities and practical applications started to become more clear and tangible. After attaching the sensor and opening the code, I changed a few things around, telling it to light up any time the values in the debug log exceeded 3000. 
+
+What I got was an LED that would remain off under the normal light of the Jacobs 310 classroom...
+
+(photos of light off)
+
+...then on when I shined my phone flashlight at it.
+
+(photo of light on and debug log)
+
+Overall, this was a great experience in getting my feet wet with the Photon 2 and its basic abilities.
+
+### _Speculations_
+
+While much of it went over my head, 
+
 ### Report 4 - Week of 9/21/2023
 
 ### _Reflections_
