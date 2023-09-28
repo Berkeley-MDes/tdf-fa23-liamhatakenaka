@@ -13,25 +13,33 @@ First was hello World, which was the first bit of online code we used to test if
 
 Next was blink, in which we commanded the Photon to blink the light located in the "D7" position. This was also relatively easy, given the code was readily avaiable.
 
-(photo of D7 light)
-
 After Blink, we connected our Photons to the bread board in order to try and blink an external LED. This took a bit more time for me than the previous tasks, as I had to understand where to connect each wire with respect to the positive and negative sides of each. Finally, I got it and ran the code and it lit up!
 
-(photo of LED lit up)
+![led on](led_on.png)
 
-Then, we were challenged to make the LED and the D7 light alternate. This was also relatively easy with the given code, but it was still very satisfying to see the lights alternating. I went into the code and played around with the timing of the lights, making them alternate faster and slower to see how it would react.
+Then, we were challenged to make the LED and the D7 light alternate. This was also relatively easy with the given code, but it was still very satisfying to see the lights alternating. 
 
-(photos of them alternating)
+![led off blink](led_blink_1.png)
+
+![led on blink](led_blink_2.png)
+
+I went into the code and played around with the timing of the lights, making them alternate faster and slower to see how it would react.
+
+![alterating led code](led_alternating_code.png)
 
 Lastly, we utilized an LDR (light dependent resistor) to create a sensor which would dictate the light's turning on and off. This was the coolest part of the day for me, as the Photon's abilities and practical applications started to become more clear and tangible. After attaching the sensor and opening the code, I changed a few things around, telling it to light up any time the values in the debug log exceeded 3000. 
 
 What I got was an LED that would remain off under the normal light of the Jacobs 310 classroom...
 
-(photos of light off)
+![unflashed led](flash_led_off.png)
 
-...then on when I shined my phone flashlight at it.
+...then when I shined my phone flashlight at it and it exceeded 3000...
 
-(photo of light on and debug log)
+![debug log](photon_over_3000.png)
+
+...it turned on!
+
+![flashed led](flash_led_on.png)
 
 Overall, this was a great experience in getting my feet wet with the Photon 2 and its basic abilities.
 
