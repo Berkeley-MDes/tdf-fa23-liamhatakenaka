@@ -19,7 +19,7 @@ After Blink, we connected our Photons to the bread board in order to try and bli
 
 Then, we were challenged to make the LED and the D7 light alternate. This was also relatively easy with the given code, but it was still very satisfying to see the lights alternating. 
 
-![led off blink](led_blink_1.png)
+![led off blink](led_blink_1.PNG)
 
 ![led on blink](led_blink_2.png)
 
@@ -39,7 +39,7 @@ What I got was an LED that would remain off under the normal light of the Jacobs
 
 ...it turned on!
 
-![flashed led](flash_led_on.png)
+![flashed led](flash_led_on.PNG)
 
 Overall, this was a great experience in getting my feet wet with the Photon 2 and its basic abilities.
 
