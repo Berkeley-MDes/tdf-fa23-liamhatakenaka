@@ -37,7 +37,9 @@ Overall, this was a great experience in getting my feet wet with the Photon 2 an
 
 ### _Speculations_
 
-While much of it went over my head, 
+While much of it went over my head, Adrian Freed's presentation on the intersection of electronics and fabrics was fascinating. I really enjoyed his stories about the summit that takes place every year in which people in his domain come together and share their ideas and work together, which allows them to stay years ahead of the general market at any given time. This is a really great example of the value of collaboration and selflessness in a team setting, something I hope our MDes cohort can continue to foster. It reminds me of the quote, "if you want to go fast, go alone. If you want to go far, go together."
+
+As for how Adrian's talk can be applied to our upcoming project, I am very interested in how we could possibly incorporate sensors and electronics with fabrics. Like I said in my previous submission, I am very interested in how emerging technology can be applied to sport and personal health. The ability to incorporate cutting edge fabrics and technology can be invaluable to sport, as we have seen in companies like PULSEThrow and Catapult.
 
 ### Report 4 - Week of 9/21/2023
 
