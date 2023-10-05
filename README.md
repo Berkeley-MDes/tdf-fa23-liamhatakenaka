@@ -15,6 +15,8 @@ Here are some initial product idea sketches via Vidit!
 
 [vidit sketches]
 
+While most of us in our group have experience on the software/API side of things, none of us have very much expertise when it comes to hardware and electronics. Because of this, this project is equally exciting as it is daunting. We have already reached out to some of our cohortmates to use as consultants when we run into issues, and with the collective expertise of the TDF teaching staff, I am confident we will be able to bring our idea to life. 
+
 ### _Speculations_
 
 I am really eager to see where all the individual teams decide to take their projects, and how the Photon will integrate with their specific challenges and constraints. Based on TJ's presentation on Monday, it seems that the Photon is super versatile in its applications. This versatility had both aided and slowed our process as a team. While there is a giant range of applications with it, that has also made it hard to narrow down our idea. While I am really excited with where our project is headed, we still need to scope it down, especially considering the timeline we are working with.
