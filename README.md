@@ -1,6 +1,16 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 6 - Week of 10/5/2023
+
+### _Reflections_
+
+This week we were placed into our groups for - and slowly building up to the beginning of work for - project 2! I was assigned to the "breaking language barriers" group, which I am very excited about. Our general prompt/problem statement outlined how oftentimes, those travelling internationally feel embarrassed or at risk when they are openly trying to interpret or translate a foregin language - whether it be with a dictionary, phone, or headphones. We essentially are trying to find a solution to this, creating a device that will quickly, easily, and discretely translate languages for the adventurous tourist. 
+
+At first, we narrowed our scope to that of the prompt. We were thinking almost solely within the bounds of a device that took in information via a microphone, used the Photon to translate, then relayed the translated words to the user via and OLED display or through headphones. This would be done by utilizing OpenAI's Whisper voice to text platform. 
+
+However, we started to rethink the boundaries of our device. To allow for greater accessibility and discreteness, we started to consider ideas that were more wearable than our current device idea. After throwing around several ideas, we landed on a pair of sunglasses.
+
 ### Report 5 - Week of 9/28/2023
 
 ### _Reflections_
