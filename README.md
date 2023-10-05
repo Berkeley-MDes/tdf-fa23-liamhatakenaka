@@ -9,7 +9,7 @@ This week we were placed into our groups for - and slowly building up to the beg
 
 At first, we narrowed our scope to that of the prompt. We were thinking almost solely within the bounds of a device that took in information via a microphone, used the Photon to translate, then relayed the translated words to the user via and OLED display or through headphones. This would be done by utilizing OpenAI's Whisper voice to text platform. 
 
-However, we started to rethink the boundaries of our device. To allow for greater accessibility and discreteness, we started to consider ideas that were more wearable than our current device idea. After throwing around several ideas, we landed on a pair of sunglasses.
+However, we started to rethink the boundaries of our device. To allow for greater accessibility and discreteness, we started to consider ideas that were more wearable than our current device idea. After throwing around several ideas, we landed on a pair of sunglasses. Rather than just focusing on an audio-based device, we are hoping to integrate visual components as well, utilizing the OLED display we were given and an augmented reality component as well. We believe this will make for a more compact and discreet device, as well as increasing accessbility for poeple who are hard of hearing. 
 
 ### Report 5 - Week of 9/28/2023
 
