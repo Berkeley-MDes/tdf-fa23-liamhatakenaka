@@ -13,7 +13,7 @@ However, we started to rethink the boundaries of our device. To allow for greate
 
 Here are some initial product idea sketches via Vidit!
 
-[vidit sketches]
+![vidit sketches](vidits_sketches.JPG)
 
 While most of us in our group have experience on the software/API side of things, none of us have very much expertise when it comes to hardware and electronics. Because of this, this project is equally exciting as it is daunting. We have already reached out to some of our cohortmates to use as consultants when we run into issues, and with the collective expertise of the TDF teaching staff, I am confident we will be able to bring our idea to life. 
 
