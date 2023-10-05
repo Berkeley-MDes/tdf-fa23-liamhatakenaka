@@ -11,6 +11,14 @@ At first, we narrowed our scope to that of the prompt. We were thinking almost s
 
 However, we started to rethink the boundaries of our device. To allow for greater accessibility and discreteness, we started to consider ideas that were more wearable than our current device idea. After throwing around several ideas, we landed on a pair of sunglasses. Rather than just focusing on an audio-based device, we are hoping to integrate visual components as well, utilizing the OLED display we were given and an augmented reality component as well. We believe this will make for a more compact and discreet device, as well as increasing accessbility for poeple who are hard of hearing. 
 
+Here are some initial product idea sketches via Vidit!
+
+[vidit sketches]
+
+### _Speculations_
+
+I am really eager to see where all the individual teams decide to take their projects, and how the Photon will integrate with their specific challenges and constraints. Based on TJ's presentation on Monday, it seems that the Photon is super versatile in its applications. This versatility had both aided and slowed our process as a team. While there is a giant range of applications with it, that has also made it hard to narrow down our idea. While I am really excited with where our project is headed, we still need to scope it down, especially considering the timeline we are working with.
+
 ### Report 5 - Week of 9/28/2023
 
 ### _Reflections_
