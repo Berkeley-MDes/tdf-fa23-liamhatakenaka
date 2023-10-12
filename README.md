@@ -19,7 +19,7 @@ Now it was time to begin playing around with buzzers and sensors!
 
 Since I have very little experience with microcontrollers, I started at the very ground level. Using the Photon, breadboard, and the vibration motor, I was able to get the motor buzzing:
 
-![video of buzzer](shoter_vid.mov)
+![video of buzzer](shorter_vid.mov)
 
 However, this is just the first step, as I will need to connect the button and code it to control the buzzer. From there, I will need to focus on subscribing and getting two separate Photons to communicate with each other. 
 
