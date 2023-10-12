@@ -1,6 +1,34 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 7 - Week of 10/12/2023
+
+### _Reflections_
+
+For the Breaking Language Barriers group, project 2 has been all about pivoting (so far). Given the somewhat vague project prompt we were given and our collective lack of experience with hardware and electronics, we had found it challenging to pin down an exact direction we wanted to take this project. After consulting with Shm, Sudhu, and TJ, we landed on a system that would replace the need for "safe words". 
+
+"Safe words" are specially designated words that essentially mean, "I want to leave" or "I need saving" when in a social setting, most commonly at parties. We figured this would be a good domain to tackle, as currently there are no solutions out there for a discrete safe word non-verbal mode of communication. To us, we believe this is breaking language barriers because it allows people to communicate via a different medium. This is helpful and can even be life saving, as people who may feel unsafe in a situation at a party likely do not feel comfortable verbalizing their discomfort in front of whoever is making them feel unsafe, even if it is through coded langauge.
+
+With this idea in mind, we began ideating on how we would pull this off. While many of our ideas were ambitious - utilizing the gesture sensor, the OLED screen, LEDs, a buzzer, and the button - Shm advised us we start off simple. We landed on a simple system utilizing two Photons, both with a button and a vibrating motor. These will be used to communicate with each other by simply pressing the button and buzzing the other motor. We will code the motors to have differing buzzing cadences to communicate different things as it relates to alerting someone with a safe word.
+
+Here is a diagram of what our system might look like once all the parts are up and running:
+
+[storyboard photo]
+
+Now it was time to begin playing around with buzzers and sensors!
+
+Since I have very little experience with microcontrollers, I started at the very ground level. Using the Photon, breadboard, and the vibration motor, I was able to get the motor buzzing:
+
+[video of buzzer]
+
+However, this is just the first step, as I will need to connect the button and code it to control the buzzer. From there, I will need to focus on subscribing and getting two separate Photons to communicate with each other. 
+
+To get there, I will first need to do a bit of soldering. I will need to solder the Sparkfun as well as the motor to the Haptic Motor Controller. Once I get these up and running, we should be well on our way to creating a system of non-verbal safe words!
+
+### _Speculations_
+
+As microcontrollers become more affordable and accessible (and electronics are taught more and more in K-12 education), it will be very interesting to see how their capabilities are applied to novel ideas that tackle real-world challenges. In just a few weeks, our group will hopefully have a working prototype of a device that allows safe words to be communicated non-verbally. I think that is very significant and important. I can only imagine all of the awesome applications of a cloud-capable microcontroller when it is put into the hands of young, diverse people - especially as AI grows more and more.
+
 ### Report 6 - Week of 10/5/2023
 
 ### _Reflections_
