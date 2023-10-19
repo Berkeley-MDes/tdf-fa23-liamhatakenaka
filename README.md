@@ -39,11 +39,13 @@ And here it is with all of the hardware inside:
 
 After fabricating the case, our group's focus shifted to getting our two Particles to communicate. Vidit was our savior when it came to figuring out code and wiring. After many Zoom calls and playing around with code and our Particles, we were able to complete our goal of getting two Photons to communicate via force sensor and the vibration motor.
 
-Here is the code we are running:
+Here is the code we are running and the wiring we landed on:
 
 [screenshot 1 of code]
 
 [screenshot 2 of code]
+
+[wiring]
 
 All in all, while our group got off to a bit of a stressful start - having to pivot and feeling behind for much of the project - I am satisfied with how our concept came out. I feel that we are tackling an interesting topic and have a well fleshed-out concept and design.
 
