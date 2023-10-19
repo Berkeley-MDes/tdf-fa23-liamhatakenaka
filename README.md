@@ -13,6 +13,10 @@ This past weekend I spent fabricating our 3D case in Rhino. Based on our product
 - a battery compartment
 - a main compartment which houses the breadboard and Photon, with enough clearance to allow for all wiring, the LED, and the force sensor
 
+Here is a really rough mock-up of how we wanted our 3D case to look:
+
+[initial mock-up case]
+
 So I got to work. While the first iteration achieved what I wanted it to in terms of aesthetic and functionality, there were a few errors that needed to get sorted out in terms of size, mainly increasing compartments to allow for more room. 
 
 [photo of rhino file]
