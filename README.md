@@ -43,7 +43,7 @@ Here is the code we are running and the wiring we landed on:
 
 ![screenshot 1 of code](code1.png)
 
-[screenshot 2 of code](code2.png)
+![screenshot 2 of code](code2.png)
 
 ![wiring](wiring.jpeg)
 
