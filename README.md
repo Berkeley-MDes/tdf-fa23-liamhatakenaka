@@ -21,7 +21,7 @@ So I got to work. While the first iteration achieved what I wanted it to in term
 
 ![photo of rhino file](finalrhino.png)
 
-![photo of first case](case1.jpg)
+![photo of first case](case1.jpeg)
 
 The changes that needed to be made were:
 
@@ -31,7 +31,7 @@ The changes that needed to be made were:
 
 After making these changes, I printed the case again and it came out much better!
 
-![photo of second case](case2.jpg)
+![photo of second case](case2.jpeg)
 
 And here it is with all of the hardware inside:
 
@@ -45,7 +45,7 @@ Here is the code we are running and the wiring we landed on:
 
 [screenshot 2 of code](code2.png)
 
-![wiring](wiring.jpg)
+![wiring](wiring.jpeg)
 
 All in all, while our group got off to a bit of a stressful start - having to pivot and feeling behind for much of the project - I am satisfied with how our concept came out. I feel that we are tackling an interesting topic and have a well fleshed-out concept and design.
 
