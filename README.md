@@ -15,13 +15,13 @@ This past weekend I spent fabricating our 3D case in Rhino. Based on our product
 
 Here is a really rough mock-up of how we wanted our 3D case to look:
 
-[initial mock-up case]
+![initial mock-up case](ogrhino.png)
 
 So I got to work. While the first iteration achieved what I wanted it to in terms of aesthetic and functionality, there were a few errors that needed to get sorted out in terms of size, mainly increasing compartments to allow for more room. 
 
-[photo of rhino file]
+![photo of rhino file](finalrhino.png)
 
-[photo of first case]
+![photo of first case](case1.jpg)
 
 The changes that needed to be made were:
 
@@ -31,21 +31,21 @@ The changes that needed to be made were:
 
 After making these changes, I printed the case again and it came out much better!
 
-[photo of second case]
+![photo of second case](case2.jpg)
 
 And here it is with all of the hardware inside:
 
-[wechat video of case]
+![wechat video of case](vid.mp4)
 
 After fabricating the case, our group's focus shifted to getting our two Particles to communicate. Vidit was our savior when it came to figuring out code and wiring. After many Zoom calls and playing around with code and our Particles, we were able to complete our goal of getting two Photons to communicate via force sensor and the vibration motor.
 
 Here is the code we are running and the wiring we landed on:
 
-[screenshot 1 of code]
+![screenshot 1 of code](code1.png)
 
-[screenshot 2 of code]
+[screenshot 2 of code](code2.png)
 
-[wiring]
+![wiring](wiring.jpg)
 
 All in all, while our group got off to a bit of a stressful start - having to pivot and feeling behind for much of the project - I am satisfied with how our concept came out. I feel that we are tackling an interesting topic and have a well fleshed-out concept and design.
 
