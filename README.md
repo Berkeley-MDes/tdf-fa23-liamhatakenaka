@@ -1,6 +1,52 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 8 - Week of 10/19/2023
+
+### _Reflections_
+
+This week - more than any other week thus far in the MDes program - has been very busy. Between project deadlines in TDF and Studio Foundations, along with Dnd Tweet in the Dark, and a big presentation in my elective, I feel like I have been running all over campus the past two weeks. As we have been coming down to the wire on project 2 here in TDF, I feel that our Breaking Language Barriers project is really starting to take shape. 
+
+This past weekend I spent fabricating our 3D case in Rhino. Based on our product requirements, I needed to design the case with a few things in mind:
+
+- an area on the top of the device which a "pad" would be place on top of the force sensor
+- a battery compartment
+- a main compartment which houses the breadboard and Photon, with enough clearance to allow for all wiring, the LED, and the force sensor
+
+So I got to work. While the first iteration achieved what I wanted it to in terms of aesthetic and functionality, there were a few errors that needed to get sorted out in terms of size, mainly increasing compartments to allow for more room. 
+
+[photo of rhino file]
+
+[photo of first case]
+
+The changes that needed to be made were:
+
+- a bigger hole for the sensor
+- a slightly larger battery compartment
+- more clearance to allow the battery to be plugged into the SparkFun
+
+After making these changes, I printed the case again and it came out much better!
+
+[photo of second case]
+
+And here it is with all of the hardware inside:
+
+[wechat video of case]
+
+After fabricating the case, our group's focus shifted to getting our two Particles to communicate. Vidit was our savior when it came to figuring out code and wiring. After many Zoom calls and playing around with code and our Particles, we were able to complete our goal of getting two Photons to communicate via force sensor and the vibration motor.
+
+Here is the code we are running:
+
+[screenshot 1 of code]
+
+[screenshot 2 of code]
+
+All in all, while our group got off to a bit of a stressful start - having to pivot and feeling behind for much of the project - I am satisfied with how our concept came out. I feel that we are tackling an interesting topic and have a well fleshed-out concept and design.
+
+### _Speculations_
+
+In just a two-week project, I have been really fascinated and impressed by many of our cohort's work with the Particle. It makes me wonder what would have been possible had we been given more time to explore the funcionality of the Particle, go more in-depth on our problem statements, and create more refined prototypes. I am really excited to see if and how my classmates implement the things we have learned in this project in coming classes and assignments.
+
 ### Report 7 - Week of 10/12/2023
 
 ### _Reflections_
