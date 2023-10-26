@@ -5,6 +5,31 @@
 
 ### _Reflections_
 
+So far this week I have been playing around with ZeroWidth and building up my "digital twin". It has been a super fun experience with a few roadblocks.
+
+I started by just getting familiar with the UI of ZeroWidth along with the basic conventions of LLMs and machine learning. 
+
+After familiarizing myself with the program, I jumped right into training the model. At first, I simply copy and pasted the project requirements and my weekly journal. 
+
+[uploading journal]
+[asking questions]
+
+Unfortunately though, I soon found out this would not work, as I was hitting the upper limits of usable tokens. Because of this, I had to start experimenting with how I would resolve this. I began by deleting a bunch of my instructions.
+
+[photo of instructions]
+
+From there, I would revisit the conversation and test to see if my error was resolved.
+
+Finally, after many attempts, I was able to get the error resolved. My challenge now is to train the model in a more succinct way.
+
+As a test, I asked my bot this question:
+
+[question]
+
+And here is what it provided me with:
+
+### _Reflections_
+
 This past week has been marked by exciting advancements and confronting new obstacles. At the beginning of the week, we were lucky to have Peter Bingesser, the founder of ZeroWidth, join us for a class discussion. Peter demonstrated the ins and outs of the software, imparting invaluable advice and ideas directly from the source of ZeroWidth. The conversation opened new dimensions of possibilities with LLMs and inspired me to push the limits with my own digital twin project.
 
 Subsequently, with an invigorated enthusiasm and a fresh understanding, I dove headfirst into exploring ZeroWidth. Like a child with a new toy, I was not afraid to push buttons, turn every knob, and test how instructions and functions interact within the software. This phase of exploration was a lot like my initial foray into Rhino/Grasshopper - initially overwhelmed but doggedly curious. It's through these processes of playful interaction that I find I learn the most, establishing a solid baseline of knowledge upon which I can build more complex understanding.
