@@ -12,7 +12,6 @@ I started by just getting familiar with the UI of ZeroWidth along with the basic
 After familiarizing myself with the program, I jumped right into training the model. At first, I simply copy and pasted the project requirements and my weekly journal. 
 
 ![uploading journal](journal.png)
-![asking questions](asking questions.png)
 
 Unfortunately though, I soon found out this would not work, as I was hitting the upper limits of usable tokens. 
 
