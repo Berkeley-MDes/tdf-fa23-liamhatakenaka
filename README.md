@@ -11,12 +11,14 @@ I started by just getting familiar with the UI of ZeroWidth along with the basic
 
 After familiarizing myself with the program, I jumped right into training the model. At first, I simply copy and pasted the project requirements and my weekly journal. 
 
-[uploading journal]
-[asking questions]
+![uploading journal](journal.png)
+![asking questions](asking questions.png)
 
-Unfortunately though, I soon found out this would not work, as I was hitting the upper limits of usable tokens. Because of this, I had to start experimenting with how I would resolve this. I began by deleting a bunch of my instructions.
+Unfortunately though, I soon found out this would not work, as I was hitting the upper limits of usable tokens. 
 
-[photo of instructions]
+![error](error.png)
+
+Because of this, I had to start experimenting with how I would resolve this. I began by deleting a bunch of my instructions.
 
 From there, I would revisit the conversation and test to see if my error was resolved.
 
@@ -24,7 +26,7 @@ Finally, after many attempts, I was able to get the error resolved. My challenge
 
 As a test, I asked my bot this question:
 
-[question]
+![question](question.png)
 
 And here is what it provided me with:
 
