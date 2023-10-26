@@ -1,6 +1,27 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 9 - Week of 10/26/2023
+
+### _Reflections_
+
+This past week has been marked by exciting advancements and confronting new obstacles. At the beginning of the week, we were lucky to have Peter Bingesser, the founder of ZeroWidth, join us for a class discussion. Peter demonstrated the ins and outs of the software, imparting invaluable advice and ideas directly from the source of ZeroWidth. The conversation opened new dimensions of possibilities with LLMs and inspired me to push the limits with my own digital twin project.
+
+Subsequently, with an invigorated enthusiasm and a fresh understanding, I dove headfirst into exploring ZeroWidth. Like a child with a new toy, I was not afraid to push buttons, turn every knob, and test how instructions and functions interact within the software. This phase of exploration was a lot like my initial foray into Rhino/Grasshopper - initially overwhelmed but doggedly curious. It's through these processes of playful interaction that I find I learn the most, establishing a solid baseline of knowledge upon which I can build more complex understanding.
+
+Taking my exploration a step further, I started uploading instructions relating to Project 3, keen to see how the model would react and learn. I found it intriguing to see how my instructions were interpreted and how this fed into the evolving personality of the model.
+
+Following this, I started uploading my previous weekly journal entries. Initially, I was merely copying and pasting the entries in their entirety. Things seemed to run smoothly until around the fifth week, where I was greeted by an unnerving error - I had maxed out the entire context window.
+
+Efforts to rectify this were multifold. I juggled with token amounts, experimented with employing varying LLMs and flirted with the concept of temperature. Despite my attempts, the issue remained stubbornly present, forcing me to reconsider my strategies.
+
+A lightbulb moment led me to a simpler solution. By simply condensing the number of tokens in each instruction, the problem was resolved. Still, as with every solution, a new challenge surfaces: maintaining the same level of detail and capturing the essence of the entries in a significantly reduced word count.
+
+For the next phase, the task at hand lies in ensuring this concise storytelling does not compromise the information about myself that ventures beyond academics as striving for a level 3: expert entails. It's a balancing act and one that I am curious to see unfold.
+
+### _Speculations_
+The error of maxing out the context window led me to ponder on the future limitations of evolving AI technology. As these models become more sophisticated and the potential for their utilization expands, will there be a demand for expanded context windows
+
 ### Report 8 - Week of 10/19/2023
 
 ### _Reflections_
