@@ -10,7 +10,7 @@ Unfortunately, I am writing and turning in this weekly reflection a day late for
 1. I was hard at work yesterday making [my video](https://youtu.be/zKtCypUTN_U) for project 3.
 2. I wanted to wait until I could get my API up and running... which I finally did!
 
-   (video of API)
+![video](video.mp4)
 
 It took hours and hours of trial and error to finally get it, but I am really satisfied with how it came out. As you can see from the video, the 10 books I uploaded to ZeroWidth are displayed. When one is clicked on, the API asks my ZeroWidth chatbot to tell me my main takeaways based on my reading notes and offers up a recommendation from my to-read list based upon it. After that text is displayed, a button appears that allows me to relate my reading to TDF. The API will ask my ZeroWidth chatbot how the ideas found in the reading relate to my experiences in TDF
 
