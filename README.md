@@ -1,6 +1,21 @@
 # Liam Hatakenaka Weekly Report
 ## Technology Design Foundations - Fall 2023
 
+### Report 11 - Week of 11/9/2023
+
+### _Reflections_
+
+Coming off project 3, Monday's class was a nice break from the grindstone and a really cool opportunity to be able to see Mohite Bhoite's awesome presentation on his work and art practice. TO date, this is one of the coolest guest speakers we have had in the entire MDes. I found his career journey inspiring and his art practice even more so. His expertise and passion for his work is very clear in his art, as is his deep level of creativity and curiosity when it comes to the form and function of microcontrollers. His work on desktop widgets was particularly inspiring given what I want my final project to be in TDF, which is along similar lines. Being able to speak with Mohite after his presentation gave me great insight into the capabilites of the Photon in regards to creating a real-time desktop widget, as well as the feasibility of pulling it off. 
+
+With his insights in mind, I began ideating on the possibilities of my own personal widget. I eventually came to the idea of a tangible, sports ticker-inspired desktop widget. According to Wikipedia, the ESPN “BottomLine” was introuced in 1995. It is described as a “persistent ticker which stayed at the bottom of the screen at all times during most programming.”
+
+I have always found this to be a brilliant piece of calm technology, as it provides viewers with relevant information when needed, and seamlessly blends into the background when unneeded. In today’s age of information overload, calm technology as equally needed as it is hard to find. This is especially true of sports-related apps and newsfeeds, in which gambling, unrelated news, lists, and merchandise are constantly bombarding viewers.  
+
+I am hoping to apply this same calm funcitonality to something tangible, in which users can quickly and easily be filled in on their favorite sports teams without the distraction that comes along when they use their phone or computer to check scores. My goal is to create a desktop widget that in some way resembles a sports ticker, allowing users to be informed on sports scores in real time without losing focus while at work.
+
+
+
+
 ### Report 10 - Week of 11/2/2023
 
 ### _Reflections_
