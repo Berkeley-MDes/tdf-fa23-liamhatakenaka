@@ -13,7 +13,18 @@ I have always found this to be a brilliant piece of calm technology, as it provi
 
 I am hoping to apply this same calm funcitonality to something tangible, in which users can quickly and easily be filled in on their favorite sports teams without the distraction that comes along when they use their phone or computer to check scores. My goal is to create a desktop widget that in some way resembles a sports ticker, allowing users to be informed on sports scores in real time without losing focus while at work.
 
+Luckily for me, versions of this sort of thing have been done, which can be seen [here](https://github.com/bder222/NBA-scoreboard) and [here](https://howchoo.com/pi/diy-raspberry-pi-nhl-scoreboard-led-panel/). While these are not exactly what I personal want to create, they have enough similarities to provide a baseline for someone like me, who has limited experience in hardware. 
 
+Looking ahead, my main tasks for this upcoming week are:
+1. experiment with NBA and MLB APIs, creating a rudimentary local server site which could mimin the general layout of my ticker
+2. compile a list of materials needed in terms of hardware
+3. Start sketching ideas of how I want the widget to look
+
+### _Speculations_
+
+I am really eager to see how my cohortmates apply the emerging technologies we have learned to their final projects. I feel that the three technologies in particular are all fairly distinct in their domain, but can be combined to create really cool things. 
+
+As far as speculations on my personal project go, I am interested to see other ways in which calm technology can be applied to sports-related works. More and more industries are being infiltrated by the manipulative marketing and design techniques made to battle for consumer attention, and sports is no different. Particularly with the proliferation of live sports betting in the past decade, I feel that something as simple as checking the score of a game has become an activity which is rife with possible distractions. I have often found myself falling down rabbit holes when I initially just wanted to check when a game starts, how my fantasy football team is doing, or if a certain team won. I think calm technology is sorely needed in today's day and age, especially in sports.
 
 
 ### Report 10 - Week of 11/2/2023
