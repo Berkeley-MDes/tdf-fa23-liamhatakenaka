@@ -17,7 +17,7 @@ I am glad to say that I have fulfilled at least a little bit of each one.
 
 For the API, I settled on a repo I found on GitHub called "nba_api". I chose this one for several reasons, the main being how many contributors it has, the active Slack channel that over 2,000 members are a part of, and the breadth of statistics available all for free. Initially going through this repo was daunting, as there are dozens of different folders containing all types of very advanced data - more than I could ever need for this project. Given how intimidating this repo is, I decided to reach out to the primary contributor whom I was able to find on LinkedIn. I was able to set up an hour-long meeting with him today, where he very graciously answered all my questions and walked me through the steps I should take in order to get my real-time score retrival set up. After much experimentation, I was able to get realtime data to appear in my terminal:
 
-(nba games photo)[nba_code.png]
+![nba games photo](nba_code.png)
 
 Here it shows the unique game code assigned to the two games on tonight, Brooklyn at Miami and Oklahoma City at Golden State. With this, I will now begin building up a simple localhost server demo which will emulate what eventually goes onto my LED Matrix.
 
@@ -29,7 +29,7 @@ Lastly, I began skethcing up ideas of how my board will end up looking. Because 
 
 Since joining the nba_api Slack channel, I have been exposed to many projects which I did not know were even possible for the hoobyist. There are so many cool websites that members have posted which use very advanced statistics and really incredible data visualization design. Below is a photo of one I found particularly creative and interesting:
 
-(shot chart)[shot_chart.png]
+![shot chart](shot_chart.png)
 
 The projects I have seen in the Slack channel have been very inspiring for my own work and it really gets me excited about the potential uses of an API like this. It is really cool to see what a hobbyist or NBA fan is able to do these days with access to so much data.
 
